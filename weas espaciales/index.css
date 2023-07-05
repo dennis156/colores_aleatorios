@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+     background-color: blanchedalmond;
+} 
+
+#btn{
+    padding: 10px 20px;
+    background-color: #d82a13; 
+    color: rgb(7, 6, 6);
+    border: ridge;
+    cursor: pointer;
+}
+
+#btn2{
+    padding: 10px 20px;
+    background-color: #110f0f; 
+    color: rgb(229, 186, 186);
+    border: ridge;
+    cursor: pointer;
+}
